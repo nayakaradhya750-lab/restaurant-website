@@ -11,6 +11,17 @@ It includes a homepage and an About page where visitors can learn more about the
    ```bash
    git clone https://github.com/yourusername/restaurant-website.git
    cd restaurant-website
+2. Run the server:
+
+python manage.py runserver
+
+
+3. Open in browser:
+
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/about/
+
+
 
 ## Project Structure
 
